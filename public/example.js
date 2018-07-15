@@ -67,6 +67,9 @@ var App = React.createClass({
         <p>
           <a href="https://github.com/mzabriskie/react-draggable/blob/master/example/index.html">Demo Source</a>
         </p>
+        <p>
+          <a href="material.html">Material Page</a>
+        </p>
         <Draggable {...dragHandlers}>
           <div className="box">I can be dragged anywhere</div>
         </Draggable>
